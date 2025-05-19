@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Gaetan/Unreal/osaka-vr/KyotoLyon/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"D:/Gaetan/Unreal/osaka-vr/KyotoLyon/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"D:/Gaetan/Unreal/osaka-vr/KyotoLyon/Content/_DefaultMaps/Hotel/Map_DefaultHotel.umap",
+				"D:/Gaetan/Unreal/osaka-vr/KyotoLyon/Content/_DefaultMaps/Temple/Map_DefaultTemple.umap"
+			]
+		}
+	]
+}
