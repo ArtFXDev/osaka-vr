@@ -1,0 +1,5 @@
+﻿newmtl Chozubachi_DIFF_txt__Mat
+	map_Kd Chozubachi_DIFF_txt__Mat_D.bmp
+	map_Ks Chozubachi_DIFF_txt__Mat_S.bmp
+	bump Chozubachi_DIFF_txt__Mat_N.bmp
+
