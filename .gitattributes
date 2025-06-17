@@ -18,3 +18,4 @@ Content/_SORTING/Hotel/TXTS_Sorting/ENCENSOIR filter=lfs diff=lfs merge=lfs -tex
 Content_SORTINGHotelABC_Sorting filter=lfs diff=lfs merge=lfs -text
 Content/_SORTING/Hotel/ABC_Sorting/ENCENSOIR_v002.abc filter=lfs diff=lfs merge=lfs -text
 Content/_SORTING/Hotel/ABC_Sorting/ENCENSOIR_v002.uasset filter=lfs diff=lfs merge=lfs -text
+Content/_INK/Hotel/ANIMATION/book_animation.abc filter=lfs diff=lfs merge=lfs -text
