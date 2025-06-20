@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated using SpeedTree tools -->
+<Materials Count="4" Mesh="dzzdzddz.abc" FlipOpacity="0">
+	<Material ID="0" Name="Default_Mat" TwoSided="1" UserData="" VertexOpacity="1" FlipNormalsOnBackside="1">
+		<Map Name="Color" File="dzzdzddz.png" Source="" />
+		<Map Name="Opacity" File="dzzdzddz_Opacity.png" Source="" />
+		<Map Name="Normal" File="dzzdzddz_Normal.png" Source="" />
+		<Map Name="Gloss" File="dzzdzddz_Gloss.png" Source="" />
+		<Map Name="Specular" File="dzzdzddz_Specular.png" Source="" />
+		<Map Name="Metallic" File="dzzdzddz_Metallic.png" Source="" />
+		<Map Name="SubsurfaceColor" File="dzzdzddz_SubsurfaceColor.png" Source="" />
+		<Map Name="SubsurfaceAmount" File="dzzdzddz_SubsurfaceAmount.png" Source="" />
+		<Map Name="AO" File="dzzdzddz_AO.png" Source="" />
+		<Map Name="Height" File="dzzdzddz_Height.png" Source="" />
+		<Map Name="Custom" File="dzzdzddz_Custom.png" Source="" />
+		<Map Name="Custom2" File="dzzdzddz_Custom2.png" Source="" />
+	</Material>
+	<Material ID="5" Name="Oak_Bark_01_Mat" TwoSided="0" UserData="" VertexOpacity="1" FlipNormalsOnBackside="1">
+		<Map Name="Color" File="dzzdzddz.png" Source="C:/Program Files/SpeedTree/SpeedTree Modeler v9.5.1/samples/Games/Broadleaf/Bark/Oak_Bark_Delight_01.png" />
+		<Map Name="Opacity" File="dzzdzddz_Opacity.png" Source="" />
+		<Map Name="Normal" File="dzzdzddz_Normal.png" Source="C:/Program Files/SpeedTree/SpeedTree Modeler v9.5.1/samples/Games/Broadleaf/Bark/Oak_Bark_01_Normal.png" />
+		<Map Name="Gloss" File="dzzdzddz_Gloss.png" Source="C:/Program Files/SpeedTree/SpeedTree Modeler v9.5.1/samples/Games/Broadleaf/Bark/Oak_Bark_01_Gloss.png" />
+		<Map Name="Specular" File="dzzdzddz_Specular.png" Source="" />
+		<Map Name="Metallic" File="dzzdzddz_Metallic.png" Source="" />
+		<Map Name="SubsurfaceColor" File="dzzdzddz_SubsurfaceColor.png" Source="" />
+		<Map Name="SubsurfaceAmount" File="dzzdzddz_SubsurfaceAmount.png" Source="" />
+		<Map Name="AO" File="dzzdzddz_AO.png" Source="C:/Program Files/SpeedTree/SpeedTree Modeler v9.5.1/samples/Games/Broadleaf/Bark/Oak_Bark_01_AO.png" />
+		<Map Name="Height" File="dzzdzddz_Height.png" Source="C:/Program Files/SpeedTree/SpeedTree Modeler v9.5.1/samples/Games/Broadleaf/Bark/Oak_Bark_01_VertexDisplacement.png" />
+		<Map Name="Custom" File="dzzdzddz_Custom.png" Source="" />
+		<Map Name="Custom2" File="dzzdzddz_Custom2.png" Source="" />
+	</Material>
+	<Material ID="1" Name="Oak_Bark_1_Mat" TwoSided="0" UserData="" VertexOpacity="1" FlipNormalsOnBackside="1">
+		<Map Name="Color" File="dzzdzddz.png" Source="C:/Program Files/SpeedTree/SpeedTree Modeler v9.5.1/samples/Games/Broadleaf/Bark/Oak_Bark_1b.png" />
+		<Map Name="Opacity" File="dzzdzddz_Opacity.png" Source="" />
+		<Map Name="Normal" File="dzzdzddz_Normal.png" Source="C:/Program Files/SpeedTree/SpeedTree Modeler v9.5.1/samples/Games/Broadleaf/Bark/Oak_Bark_1_Normal.png" />
+		<Map Name="Gloss" File="dzzdzddz_Gloss.png" Source="C:/Program Files/SpeedTree/SpeedTree Modeler v9.5.1/samples/Games/Broadleaf/Bark/Oak_Bark_1_Gloss.png" />
+		<Map Name="Specular" File="dzzdzddz_Specular.png" Source="" />
+		<Map Name="Metallic" File="dzzdzddz_Metallic.png" Source="" />
+		<Map Name="SubsurfaceColor" File="dzzdzddz_SubsurfaceColor.png" Source="" />
+		<Map Name="SubsurfaceAmount" File="dzzdzddz_SubsurfaceAmount.png" Source="" />
+		<Map Name="AO" File="dzzdzddz_AO.png" Source="C:/Program Files/SpeedTree/SpeedTree Modeler v9.5.1/samples/Games/Broadleaf/Bark/Oak_Bark_1_AO.png" />
+		<Map Name="Height" File="dzzdzddz_Height.png" Source="C:/Program Files/SpeedTree/SpeedTree Modeler v9.5.1/samples/Games/Broadleaf/Bark/Oak_Bark_1_Height.png" />
+		<Map Name="Custom" File="dzzdzddz_Custom.png" Source="" />
+		<Map Name="Custom2" File="dzzdzddz_Custom2.png" Source="" />
+	</Material>
+	<Material ID="2" Name="Oak_Cap_Mat" TwoSided="0" UserData="" VertexOpacity="1" FlipNormalsOnBackside="1">
+		<Map Name="Color" File="dzzdzddz.png" Source="C:/Program Files/SpeedTree/SpeedTree Modeler v9.5.1/samples/Games/Broadleaf/Knots/Knot_1.png" />
+		<Map Name="Opacity" File="dzzdzddz_Opacity.png" Source="C:/Program Files/SpeedTree/SpeedTree Modeler v9.5.1/samples/Games/Broadleaf/Knots/Knot_1_Opacity.png" />
+		<Map Name="Normal" File="dzzdzddz_Normal.png" Source="C:/Program Files/SpeedTree/SpeedTree Modeler v9.5.1/samples/Games/Broadleaf/Knots/Knot_1_Normal.png" />
+		<Map Name="Gloss" File="dzzdzddz_Gloss.png" Source="C:/Program Files/SpeedTree/SpeedTree Modeler v9.5.1/samples/Games/Broadleaf/Knots/Knot_1_Gloss.png" />
+		<Map Name="Specular" File="dzzdzddz_Specular.png" Source="" />
+		<Map Name="Metallic" File="dzzdzddz_Metallic.png" Source="" />
+		<Map Name="SubsurfaceColor" File="dzzdzddz_SubsurfaceColor.png" Source="" />
+		<Map Name="SubsurfaceAmount" File="dzzdzddz_SubsurfaceAmount.png" Source="" />
+		<Map Name="AO" File="dzzdzddz_AO.png" Source="C:/Program Files/SpeedTree/SpeedTree Modeler v9.5.1/samples/Games/Broadleaf/Knots/Knot_1_AO.png" />
+		<Map Name="Height" File="dzzdzddz_Height.png" Source="C:/Program Files/SpeedTree/SpeedTree Modeler v9.5.1/samples/Games/Broadleaf/Knots/Knot_1_Height.png" />
+		<Map Name="Custom" File="dzzdzddz_Custom.png" Source="" />
+		<Map Name="Custom2" File="dzzdzddz_Custom2.png" Source="" />
+	</Material>
+</Materials>
